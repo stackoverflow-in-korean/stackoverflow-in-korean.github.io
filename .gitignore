@@ -1,6 +1,12 @@
+# Jekyll에서 온 ignore 패턴
 _site/
 *.swp
 pkg/
 test/
-*.bat
+
+# 사이트 생성시 마다 만들어지는 sass 파일들
 .sass-cache/*
+
+# 폴더 루트 위치에서 IIS를 실행하기 위한 파일들
+/*.cmd
+/applicationhost.config
