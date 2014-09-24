@@ -1,0 +1,8 @@
+- title: 문서 카테고리1
+  docs:
+  - home
+  - 문서B
+
+- title: 문서 카테고리2
+  docs:
+  - 문서C

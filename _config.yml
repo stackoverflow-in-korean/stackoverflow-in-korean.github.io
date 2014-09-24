@@ -1,0 +1,15 @@
+markdown: kramdown
+highlighter: pygments
+relative_permalinks: false
+permalink: /news/:year/:month/:day/:title/
+excerpt_separator: noifniof3nioaniof3nioafafinoafnoif
+
+gauges_id:
+google_analytics_id:
+
+repository: https://github.com/stackoverflow-in-korean/stackoverflow-in-korean.github.io
+help_url: https://www.facebook.com/kr.stackoverflow
+
+collections:
+  docs:
+    output: true
