@@ -13,3 +13,5 @@ help_url: https://www.facebook.com/kr.stackoverflow
 collections:
   docs:
     output: true
+
+exclude: [README.md]
