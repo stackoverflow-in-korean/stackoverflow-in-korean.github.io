@@ -1,9 +1,0 @@
----
-layout: news_item
-title: 뉴스 1
-date: 2014-09-24
-author: jwChung
-categories: [전달사항]
----
-
-뉴스 1 내용
