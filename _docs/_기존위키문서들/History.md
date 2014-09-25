@@ -1,0 +1,16 @@
+| 일시(UTC) | Event   | 비고 |
+|----------|-------  |------|
+| 2013/10/17 | [1차 제안][1] | Definition 단계에서 실패 via [KLDP][3] |
+| 2014/05/12 | [2차 제안][2] | |
+| 2014/07/02 | SO 채팅방 개설 - [transcript][4] | 하루 평균 53 메시지, 2014/07/08에 SE로 이동 |
+| 2014/07/07 | Definition Phase 통과 | 148 followers, 10+ 40개 질문 |
+| 2014/07/07 | Commitment Phase 시작 |  |
+| 2014/07/08 | SE 채팅방 개설 - [transcript][5] | 이메일 인증 +50으로 제안에 참여한 모든 유저와 채팅 가능 |
+|  | 이벤트 추가해 주세요 ... |  |
+
+[1]: https://area51.stackexchange.com/proposals/54441/stack-overflow-in-korean
+[2]: https://area51.stackexchange.com/proposals/68765/stack-overflow-in-korean
+[3]: https://kldp.org/node/110607#comment-599340
+[4]: https://chat.stackoverflow.com/transcript/56617/2014/7/2
+[5]: https://chat.stackexchange.com/transcript/15571/2014/7/8
+

@@ -1,0 +1,170 @@
+## 목적
+
+- 200+ user에게 SOK 홍보를 위해 [SO 채팅방][1]에 초대한다.
+ - SO user는 SO 채팅방에만 초대 가능함.
+- 참고 : [SE 채팅방][2]
+
+## 초대할 User 스냅샷 추출
+
+- mskimm 님이 만드신 [Query][3]를 응용했다.
+
+## 초대 관리
+
+- 1주일에 5명씩 초대한다.
+ - commitment 진행률 관리를 위함
+- Reputation 역순으로 초대한다.
+ - Reputation 높은 유저의 참여도가 높을 듯 하여 초반 반짝보다는 후반에 반짝이 좋을 듯 함
+
+## 초대 User 목록
+
+- User 목록은 2014-07-28일의 snapshot입니다.
+
+|순위|DisplayName|Reputation|초대하기 링크|초대(예정일)|초대자|
+|---|---|---|---|---|---|
+|164|Jaehyun|205|[초대하기](https://chat.stackoverflow.com/users/2142354)|7/28 09:38 KST|InoS Heo|
+|163|scari|210|[초대하기](https://chat.stackoverflow.com/users/743200)|7/28 09:38 KST|InoS Heo|
+|162|Joel Teply|211|[초대하기](https://chat.stackoverflow.com/users/1060382)|7/28 09:38 KST|InoS Heo|
+|161|Newkie|216|[초대하기](https://chat.stackoverflow.com/users/2978663)|초대버튼 안 보임||
+|160|all2one|217|[초대하기](https://chat.stackoverflow.com/users/6773)|7/28 09:38 KST|InoS Heo|
+|159|jokor7|226|[초대하기](https://chat.stackoverflow.com/users/1140192)|7/28 09:38 KST|InoS Heo|
+|158|Joonhwan|244|[초대하기](https://chat.stackoverflow.com/users/884268)|7/28 09:38 KST|InoS Heo|
+|157|Alec Sloman|247|[초대하기](https://chat.stackoverflow.com/users/681477)|초대버튼 안 보임||
+|156|KJK|250|[초대하기](https://chat.stackoverflow.com/users/1265770)|초대버튼 안 보임| |
+|155|rafael|253|[초대하기](https://chat.stackoverflow.com/users/205589)|7/28 13:07 KST|soomong|
+|154|booiljoung|257|[초대하기](https://chat.stackoverflow.com/users/1424117)|초대버튼 안 보임||
+|153|cinsk|271|[초대하기](https://chat.stackoverflow.com/users/478991)|초대버튼 안 보임| |
+|152|Jin Kwon|290|[초대하기](https://chat.stackoverflow.com/users/335326)|초대버튼 안 보임| |
+|151|Joseph Lee|291|[초대하기](https://chat.stackoverflow.com/users/1890624)|초대버튼 안 보임| |
+|150|bistros|300|[초대하기](https://chat.stackoverflow.com/users/2462408)|8/3 13:00 KST|InoS Heo |
+|149|Raskal|301|[초대하기](https://chat.stackoverflow.com/users/427058)|8/3 13:00 KST|InoS Heo |
+|148|Cafe Coder|303|[초대하기](https://chat.stackoverflow.com/users/2184393)|8/3 13:00 KST|InoS Heo |
+|147|lancif|308|[초대하기](https://chat.stackoverflow.com/users/1995675)|8/3 13:00 KST|InoS Heo |
+|146|Lee Jae Beom|310|[초대하기](https://chat.stackoverflow.com/users/226962)|초대버튼 안 보임| |
+|145|imays|314|[초대하기](https://chat.stackoverflow.com/users/169165)|초대버튼 안 보임| |
+|144|JPT|314|[초대하기](https://chat.stackoverflow.com/users/643217)|외국 사람 같음| |
+|143|Justin Megawarne|315|[초대하기](https://chat.stackoverflow.com/users/713516)|외국 사람 같음| |
+|142|vadimvolk|316|[초대하기](https://chat.stackoverflow.com/users/2893110)|초대버튼 안 보임| |
+|141|gentlejo|319|[초대하기](https://chat.stackoverflow.com/users/889158)|초대버튼 안 보임| |
+|140|yoonchee|321|[초대하기](https://chat.stackoverflow.com/users/1956733)|초대버튼 안 보임| |
+|139|Steven Jiang|324|[초대하기](https://chat.stackoverflow.com/users/1151665)|초대버튼 안 보임| |
+|138|moon6pence|327|[초대하기](https://chat.stackoverflow.com/users/731304)|초대버튼 안 보임| |
+|137|IvoryCirrus|329|[초대하기](https://chat.stackoverflow.com/users/988667)|초대버튼 안 보임| |
+|135|Laurent|341|[초대하기](https://chat.stackoverflow.com/users/1128999)|초대버튼 안 보임| |
+|134|cwyang|341|[초대하기](https://chat.stackoverflow.com/users/380676)|초대버튼 안 보임| |
+|133|dskim|347|[초대하기](https://chat.stackoverflow.com/users/1780308)|초대버튼 안 보임| |
+|131|theWook|350|[초대하기](https://chat.stackoverflow.com/users/541620)|초대버튼 안 보임| |
+|132|Kakitori|350|[초대하기](https://chat.stackoverflow.com/users/3736926)|초대버튼 안 보임| |
+|130|Hoon|353|[초대하기](https://chat.stackoverflow.com/users/1290203)|초대버튼 안 보임| |
+|129|inherithandle|360|[초대하기](https://chat.stackoverflow.com/users/1889192)|8/3 13:00 KST|InoS Heo |
+|128|C. Lee|360|[초대하기](https://chat.stackoverflow.com/users/332370)|초대버튼 안 보임| |
+|127|Metaphox|363|[초대하기](https://chat.stackoverflow.com/users/57973)|8/8 12:44|InoS Heo|
+|126|Yasir Malik|364|[초대하기](https://chat.stackoverflow.com/users/2038513)|초대버튼 안 보임| |
+|125|Rastko|365|[초대하기](https://chat.stackoverflow.com/users/1673211)|8/8 12:44|InoS Heo|
+|123|manutd|371|[초대하기](https://chat.stackoverflow.com/users/693179)|초대버튼 안 보임| |
+|122|Hyunjun Kim|374|[초대하기](https://chat.stackoverflow.com/users/1101388)|초대버튼 안 보임| |
+|121|Prodikl|379|[초대하기](https://chat.stackoverflow.com/users/1920847)|초대버튼 안 보임| |
+|120|seapy|391|[초대하기](https://chat.stackoverflow.com/users/397457)|8/18 commit 완료| |
+|119|Jiyong Park|399|[초대하기](https://chat.stackoverflow.com/users/760423)|초대버튼 안 보임| |
+|118|Seung-hyup Lee|399|[초대하기](https://chat.stackoverflow.com/users/1455538)|초대버튼 안 보임| |
+|117|zihado|400|[초대하기](https://chat.stackoverflow.com/users/224296)|초대버튼 안 보임| |
+|116|sevity|408|[초대하기](https://chat.stackoverflow.com/users/208397)|초대버튼 안 보임| |
+|115|jyoon|415|[초대하기](https://chat.stackoverflow.com/users/3463021)|8/8 12:44|InoS Heo|
+|113|Mylen|416|[초대하기](https://chat.stackoverflow.com/users/1819355)|8/8 12:44|InoS Heo|
+|114|curtisblackwell|416|[초대하기](https://chat.stackoverflow.com/users/1378927)|8/8 12:44|InoS Heo|
+|112|ssut|421|[초대하기](https://chat.stackoverflow.com/users/3352865)|8/16 09:37|InoS Heo|
+|111|plhn|424|[초대하기](https://chat.stackoverflow.com/users/766330)|초대버튼 안 보임| |
+|110|Dish|424|[초대하기](https://chat.stackoverflow.com/users/1616290)|초대버튼 안 보임| |
+|109|Raymond Holmboe|433|[초대하기](https://chat.stackoverflow.com/users/1172996)|초대버튼 안 보임| |
+|108|lpsmith|436|[초대하기](https://chat.stackoverflow.com/users/646408)|외쿡인| |
+|107|Ian Brown|441|[초대하기](https://chat.stackoverflow.com/users/884138)|초대버튼 안 보임| |
+|106|333kenshin|444|[초대하기](https://chat.stackoverflow.com/users/3044344)|초대버튼 안 보임| |
+|105|shkim|447|[초대하기](https://chat.stackoverflow.com/users/2556909)|8/16 09:37| |
+|104|Hacker Wins|455|[초대하기](https://chat.stackoverflow.com/users/1513327)|초대버튼 안 보임| |
+|103|adn|467|[초대하기](https://chat.stackoverflow.com/users/424986)|초대버튼 안 보임| |
+|102|oksk|467|[초대하기](https://chat.stackoverflow.com/users/276836)|초대버튼 안 보임| |
+|101|wolle|481|[초대하기](https://chat.stackoverflow.com/users/643556)|초대버튼 안 보임| |
+|100|Whiteship|489|[초대하기](https://chat.stackoverflow.com/users/191863)|초대버튼 안 보임| |
+|98|EveryEvery|495|[초대하기](https://chat.stackoverflow.com/users/480733)|8/16 09:37| |
+|97|asitaru|506|[초대하기](https://chat.stackoverflow.com/users/1120326)|초대버튼 안 보임| |
+|96|wookay|522|[초대하기](https://chat.stackoverflow.com/users/46347)|초대버튼 안 보임| |
+|95|jabirali|525|[초대하기](https://chat.stackoverflow.com/users/388832)|초대버튼 안 보임| |
+|94|Chansuk|537|[초대하기](https://chat.stackoverflow.com/users/2701725)|초대버튼 안 보임| |
+|91|rischan|545|[초대하기](https://chat.stackoverflow.com/users/3070007)|초대버튼 안 보임| |
+|90|congliu|549|[초대하기](https://chat.stackoverflow.com/users/1850858)|초대버튼 안 보임| |
+|89|Ray Yun|551|[초대하기](https://chat.stackoverflow.com/users/259228)|초대버튼 안 보임| |
+|88|philipjkim|555|[초대하기](https://chat.stackoverflow.com/users/337988)|초대버튼 안 보임| |
+|87|Jujjuru|556|[초대하기](https://chat.stackoverflow.com/users/317044)|초대버튼 안 보임| |
+|86|Joshua Son|561|[초대하기](https://chat.stackoverflow.com/users/826725)|초대버튼 안 보임| |
+|85|Deminoth Bono|571|[초대하기](https://chat.stackoverflow.com/users/907071)|초대버튼 안 보임| |
+|84|The Finest Artist|592|[초대하기](https://chat.stackoverflow.com/users/1797648)|초대버튼 안 보임| |
+|83|gduq|595|[초대하기](https://chat.stackoverflow.com/users/319030)|초대버튼 안 보임| |
+|82|Jee Seok Yoon|596|[초대하기](https://chat.stackoverflow.com/users/2558506)|초대버튼 안 보임| |
+|81|jeong|599|[초대하기](https://chat.stackoverflow.com/users/59597)|초대버튼 안 보임| |
+|80|Tsagadai|600|[초대하기](https://chat.stackoverflow.com/users/718278)|초대버튼 안 보임| |
+|79|BBonDoo|605|[초대하기](https://chat.stackoverflow.com/users/1983061)|초대버튼 안 보임| |
+|78|Sanghyun Park|622|[초대하기](https://chat.stackoverflow.com/users/157816)|초대버튼 안 보임| |
+|77|blueiur|624|[초대하기](https://chat.stackoverflow.com/users/1513517)|초대버튼 안 보임| |
+|76|cmcromance|628|[초대하기](https://chat.stackoverflow.com/users/536078)|초대버튼 안 보임| |
+|75|Tigris|631|[초대하기](https://chat.stackoverflow.com/users/2301685)|초대버튼 안 보임| |
+|74|Fredrick Pennachi|642|[초대하기](https://chat.stackoverflow.com/users/115060)|외쿡인| |
+|73|Achimnol|647|[초대하기](https://chat.stackoverflow.com/users/122423)|초대버튼 안 보임| |
+|72|azawaza|667|[초대하기](https://chat.stackoverflow.com/users/1317461)|초대버튼 안 보임| |
+|71|SLee|683|[초대하기](https://chat.stackoverflow.com/users/2169363)|2014-08-20 12:31|InoS Heo|
+|70|taggon|697|[초대하기](https://chat.stackoverflow.com/users/1257510)|2014-08-20 12:31| |
+|69|Kyokook Hwang|721|[초대하기](https://chat.stackoverflow.com/users/579236)|초대버튼 안 보임| |
+|68|J.J. Kim|729|[초대하기](https://chat.stackoverflow.com/users/828952)|초대버튼 안 보임| |
+|67|James Duffy|740|[초대하기](https://chat.stackoverflow.com/users/2589715)|초대버튼 안 보임| |
+|64|l46kok|762|[초대하기](https://chat.stackoverflow.com/users/1455529)|2014-08-20 12:31| |
+|63|DevEight|770|[초대하기](https://chat.stackoverflow.com/users/300664)|초대버튼 안 보임| |
+|61|jAckOdE|784|[초대하기](https://chat.stackoverflow.com/users/737585)|초대버튼 안 보임| |
+|60|Chan Le|838|[초대하기](https://chat.stackoverflow.com/users/604159)|초대버튼 안 보임| |
+|59|kim taeyun|852|[초대하기](https://chat.stackoverflow.com/users/464689)|초대버튼 안 보임| |
+|58|jeeeyul|854|[초대하기](https://chat.stackoverflow.com/users/779076)|초대버튼 안 보임| |
+|57|Mics|855|[초대하기](https://chat.stackoverflow.com/users/2043535)|2014-08-20 12:31| |
+|56|Sergey Lost|856|[초대하기](https://chat.stackoverflow.com/users/421468)|초대버튼 안 보임| |
+|55|James Santiago|902|[초대하기](https://chat.stackoverflow.com/users/357124)|초대버튼 안 보임| |
+|54|SeungUn Ham|929|[초대하기](https://chat.stackoverflow.com/users/809671)|2014-08-23 16:30| |
+|53|trick14|931|[초대하기](https://chat.stackoverflow.com/users/1215715)|2014-08-23 16:30| |
+|52|alex.veprik|1002|[초대하기](https://chat.stackoverflow.com/users/985942)|초대버튼 안 보임| |
+|51|CodeDreamer|1026|[초대하기](https://chat.stackoverflow.com/users/2231098)|초대버튼 안 보임| |
+|50|Jiho Kang|1029|[초대하기](https://chat.stackoverflow.com/users/818351)|2014-08-23 16:30| |
+|49|Kita|1052|[초대하기](https://chat.stackoverflow.com/users/760211)|초대버튼 안 보임| |
+|48|Keugyeol|1098|[초대하기](https://chat.stackoverflow.com/users/1309708)|2014-08-23 16:30| |
+|47|Sang|1188|[초대하기](https://chat.stackoverflow.com/users/1112917)|2014-08-23 16:30| |
+|46|Yeonho|1210|[초대하기](https://chat.stackoverflow.com/users/312462)|초대버튼 안 보임| |
+|45|jhyap|1230|[초대하기](https://chat.stackoverflow.com/users/2028195)|초대버튼 안 보임| |
+|43|Jinbom Heo|1276|[초대하기](https://chat.stackoverflow.com/users/505345)|2014-08-27 10:00| |
+|42|alones|1278|[초대하기](https://chat.stackoverflow.com/users/360057)|2014-08-27 10:00| |
+|41|Eye|1309|[초대하기](https://chat.stackoverflow.com/users/556678)|2014-08-27 10:10| |
+|40|minhee|1335|[초대하기](https://chat.stackoverflow.com/users/383405)|초대버튼 안 보임| |
+|39|Mason|1347|[초대하기](https://chat.stackoverflow.com/users/325880)|2014-08-27 10:10| |
+|38|Youngjae|1360|[초대하기](https://chat.stackoverflow.com/users/361100)|2014-08-27 10:10| |
+|37|Yohanes Khosiawan 溫멨뀍黎?|1482|[초대하기](https://chat.stackoverflow.com/users/500452)|2014-08-27 10:10| |
+|35|ChangUZ|1508|[초대하기](https://chat.stackoverflow.com/users/833182)|초대버튼 안 보임| |
+|34|Jake 'Alquimista' LEE|1586|[초대하기](https://chat.stackoverflow.com/users/1021504)|2014-08-29 12:25| |
+|33|Slace Diamond|1682|[초대하기](https://chat.stackoverflow.com/users/1256386)|초대버튼 안 보임| |
+|31|sunglim|1687|[초대하기](https://chat.stackoverflow.com/users/278235)|초대버튼 안 보임| |
+|32|acattle|1687|[초대하기](https://chat.stackoverflow.com/users/1369712)|초대버튼 안 보임| |
+|29|vinayr|1867|[초대하기](https://chat.stackoverflow.com/users/1427309)|2014-08-29 12:25| |
+|27|Jin-Wook Chung|2122|[초대하기](https://chat.stackoverflow.com/users/799734)|2014-08-29 12:25| |
+|25|Jin Kwon|2186|[초대하기](https://chat.stackoverflow.com/users/330457)|초대버튼 안 보임| |
+|21|yeonsh|2538|[초대하기](https://chat.stackoverflow.com/users/174622)|2014-08-29 12:25| |
+|20|Joseph Turian|2597|[초대하기](https://chat.stackoverflow.com/users/82733)|외쿡인. 한국 근무자도 아닌 듯| |
+|19|sanxiyn|2694|[초대하기](https://chat.stackoverflow.com/users/18382)|2014-08-29 12:25| |
+|18|InspiredJW|2825|[초대하기](https://chat.stackoverflow.com/users/877644)|2014-08-31 17:33| |
+|17|Yoo|3256|[초대하기](https://chat.stackoverflow.com/users/37664)|초대버튼 없음| |
+|15|Sushil|3720|[초대하기](https://chat.stackoverflow.com/users/2518666)|2014-08-31 17:33| |
+|12|Leftium|4433|[초대하기](https://chat.stackoverflow.com/users/117030)|2014-08-31 17:33| |
+|11|Pablo|4485|[초대하기](https://chat.stackoverflow.com/users/315427)|2014-08-31 17:33| |
+|10|awm|4579|[초대하기](https://chat.stackoverflow.com/users/607514)|초대버튼 없음| |
+|9|sandrstar|4807|[초대하기](https://chat.stackoverflow.com/users/657487)|2014-08-31 17:33| |
+|8|trustin|5014|[초대하기](https://chat.stackoverflow.com/users/55808)|초대버튼 없음| |
+|7|rightfold|6538|[초대하기](https://chat.stackoverflow.com/users/1804599)|2014-08-31 17:33| |
+|6|bitmapdata.com|6673|[초대하기](https://chat.stackoverflow.com/users/785923)|초대버튼 없음| |
+|5|Eric Melski|8295|[초대하기](https://chat.stackoverflow.com/users/77345)|외쿡인| |
+|4|bdares|10404|[초대하기](https://chat.stackoverflow.com/users/684934)|초대버튼 없음| |
+|1|falsetru|89421|[초대하기](https://chat.stackoverflow.com/users/2225682)|2014-08-31 17:33| |
+
+[1]: http://chat.stackoverflow.com/rooms/56617/stackoverflow-in-korean
+[2]: http://chat.stackexchange.com/rooms/15571/stackoverflow-in-korean
+[3]: http://data.stackexchange.com/stackoverflow/query/210739/200-users-who-seem-to-speak-korean

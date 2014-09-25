@@ -1,0 +1,56 @@
+## 지원(도움) 요청 내용 및 형식
+(미완성, 참고용으로 활용 요망)
+> Stackoverflow를 아시는 분은 많으실텐데요. Stackoverflow에서 한국어로 Q&A할 수 있는 사이트 개설을 진행 중에 있습니다.     (비슷한 예로 곧 정식 오픈 예정인 포루투칼어 사이트가 있습니다. http://pt.stackoverflow.com/)
+
+> 바로 사이트가 개설될 수는 없고 여러분들의 참여가 필요한 상태입니다.
+
+> 관심있는 분께서는
+  https://github.com/so-in-korean/sok/wiki/How-to-Contribute 를 참고하신 후, 
+  area51.stackexchange.com/proposals/68765/stack-overflow-in-korean 에서 참여해 주시면 감사하겠습니다.
+
+
+## 지원(도움) 요청할 포럼 리스트
+
+### 독립
+
+- [X] [gpgstudy](http://gpgstudy.com/) : [link(2014/07/05)](http://gpgstudy.com/news/item/1092)
+- [X] [gamecodi](http://www.gamecodi.com/) : [link(2014/07/04)](http://www.gamecodi.com/board/zboard.php?id=GAMECODI_Talkdev&no=2739&z=0)
+- [X] [독립 개발자 네트워크](http://www.indidev.net/) : [link(2014/07/07)](http://www.indidev.net/forum/viewtopic.php?f=2&t=424)
+- [ ] [마스터Q&A](http://www.masterqna.com/)
+- [ ] [OSXDEV.org](http://osxdev.org/forum/index.php)
+- [X] [Lisp을 좋아하는 사람들의 그룹(한국 리스퍼)](https://groups.google.com/forum/?fromgroups#!forum/lisp-korea) : [link(2014/07/07)](https://groups.google.com/forum/?fromgroups#!topic/lisp-korea/ZVqWeqG0uNI)
+- [ ] [Codeigniter 한국사용자포럼](http://cikorea.net/)
+- [ ] [Laravel Korea](http://laravel-korea.org/)
+- [ ] [한국펄사용자모임](http://www.perl.or.kr/) : 요청할 예정입니다 - lqez
+- [ ] [KLDP](http://www.kldp.org/)
+- [ ] [Mozilla 한국 커뮤니티](http://forums.mozilla.or.kr/)
+- [ ] [Daum DNA 개발자 네트워크](http://dna.daum.net/)
+- [X] [KSUG](http://www.ksug.org/) : 운영자와 협의했습니다. - Outsider
+- [X] [Database Sarang Net](http://database.sarang.net/) : [link(2014/07/03)](http://database.sarang.net/?inc=read&aid=11540&criteria=free&subcrit=&id=&limit=20&keyword=&page=1)
+- [X] [PHPSchool](http://www.phpschool.com) : [link(2014/07/04)](http://www.phpschool.com/gnuboard4/bbs/board.php?bo_table=talkbox2&wr_id=1015425&page=&sfl=&stx=&sst=&sod=&spt=&page=&sca=)
+- [X] [훈스닷넷 커뮤니티](http://www.hoons.net/) : [link(2014/09/02)](http://www.hoons.net/Board/free/Content/65195)
+
+### 네이버 카페
+
+- [ ] [아키텍트를 꿈꾸는 사람들](http://cafe.naver.com/architect1)
+- [ ] [맥부기](http://cafe.naver.com/mcbugi)
+- [ ] [게임 개발자 네트워크](http://cafe.naver.com/jzsdn) : 요청할 예정입니다 - ohyecloudy
+- [ ] [Shader study](http://cafe.naver.com/shader) : 요청할 예정입니다 - ohyecloudy
+- [ ] [C언어를 배우자](http://cafe.naver.com/cafec)
+- [ ] [자바/Java/C/C++ 개발자모임](http://cafe.naver.com/javacircle)
+
+### 페이스북 그룹
+
+- [X] [Python Korea](https://www.facebook.com/groups/pythonkorea/) : [link(2014/07/07)](https://www.facebook.com/groups/pythonkorea/651157184967446)
+- [ ] [스마트폰게임개발자그룹](https://www.facebook.com/groups/kmgda/)
+- [X] [생활코딩](https://www.facebook.com/groups/codingeverybody/) : [link(2014/07/01)](https://www.facebook.com/groups/codingeverybody/798881200152418)
+- [ ] [undefine:D](https://www.facebook.com/groups/html5jsstudy/)
+- [X] [Server Side Architecture Group](https://www.facebook.com/groups/serverside/) : [link(2014/07/03)](https://www.facebook.com/groups/serverside/permalink/749488038447151/)
+- [ ] [인디라! 인디게임개발자 모임](https://www.facebook.com/groups/indiera/)
+- [ ] [Amazon Web Service 한국 사용자 모임 (Korean User Group)](https://www.facebook.com/groups/189675924467773/) : 요청할 예정입니다 - lqez
+- [ ] [tidev.kr - Korea Titanium User Group](https://www.facebook.com/groups/titanium.kr/)
+- [ ] [Korea AngularJS User Group](https://www.facebook.com/groups/Korea.AngularJS.User.Group/)
+- [ ] [Daum 개발자 네트워크](https://www.facebook.com/groups/daumdna/)
+- [ ] [OpenStack Korea Group](https://www.facebook.com/groups/openstack.kr/)
+- [ ] [Naver D2](https://www.facebook.com/naverd2) : 커뮤니티는 아니지만 홍보 요청을 하면 도와주실듯 합니다. - Outsider
+- [X] [ASP.NET Korea User Group](https://www.facebook.com/groups/AspxKorea/): [link(2014/09/02)](https://www.facebook.com/groups/AspxKorea/permalink/718420874918811)

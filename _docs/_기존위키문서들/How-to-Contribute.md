@@ -1,0 +1,75 @@
+## 다음 단계를 위해 도움 주시는 방법
+
+### 2014/08/30 현재
+- 현 단계 Commitment에서 다음 단계 Closed Beta로 넘어가기 위해서는 아래 조건을 만족해야합니다.  
+
+  _[Stack Exchange Q&A 사이트 중](http://stackexchange.com/sites) 아무 곳에서나 **명성이 200 이상** 을 획득하신 분 **100명**이 **commit**을 하여야 합           니다.  
+  글 작성 시점에 37%인 상태입니다. (37분이 위 조건에 만족)_
+
+- Commit 하는 방법
+  1. [Proposal 페이지](http://area51.stackexchange.com/proposals/68765/stack-overflow-in-korean)를 방문하셔서 아래 그림과 같이 commit 버튼을 누르신 후, 이 메일 기입하신 후 확인 버튼을 누릅니다.
+
+    ![How to commit](https://raw.githubusercontent.com/jwChung/jwchung.github.com/master/images/HowToCommit.png)
+
+  2. 작성하신 이 메일주소로 도착한 이메일의 확인 버튼을 눌러 주시면 끝이 납니다.
+
+### 2014/07/07 현재
+- 다음 단계를 위해 다음의 조건을 만족해야 합니다.
+ - 서명(Commitment) 200명 중 21% 진행중: 한글 스택오버플로우를 적극적으로 사용하겠다는 서명을 해주시면 우상단의 진행율이 올라갑니다.  
+   **[Stackoverflow의 채팅방] (http://chat.stackexchange.com/rooms/15571/stackoverflow-in-korean)에 오셔서 SOK 준비에 참여하실 수 있습니다.**  
+   **[스택오버플로우(Stack Overflow, 이하 SO)가 뭐죠?] (https://github.com/so-in-korean/sok/wiki/Stack-Overflow-in-Korea)에서 간단한 한글 답변을 보실 수 있습니다.**
+
+- [참여하러 가기](http://area51.stackexchange.com/proposals/68765/stack-overflow-in-korean)
+
+--------------------------------------------------------------------- 
+ 우측 상단의 다음 단계로 가기 위한 설명 
+--------------------------------------------------------------------- 
+
+This proposal is in: 17 
+
+Commitment
+Before the site is created, it needs people to commit to use it. Right now, it's
+
+6%
+complete. When it reaches 100%, the beta will begin.
+
+▴ less info
+The commitment score is the minimum of three scores:
+
+10%21/200 committers in total6%6/100 committers with 200+ rep on any other site7%commitment score, based on committers' activity on all other sites and how old the commitment is
+
+
+---------------------------------------------------------------------
+이하는 달성된 내용입니다. 
+---------------------------------------------------------------------
+- 다음 단계를 위해 다음의 조건을 만족해야 합니다.
+ - Follower 수 : 60명 (2014/07/04 달성 완료)
+ - **▲10점 이상의 Example Question : 40개**
+   - **가능하면 10점을 채우지 못한 질문에 Upvote(▲클릭)를 해주세요.**
+
+따라서 본 페이지를 방문해 주시는 분께서는 다음 그림을 참고하여 도움을 주시면 감사하겠습니다.
+
+
+
+## 1. Upvote(▲클릭) 하기
+
+[![도움주시는 방법2](http://mysqlguru.github.io/images/sok-contribute02.PNG)](https://area51.stackexchange.com/proposals/68765/stack-overflow-in-korean)
+
+- 참고 :+1:  : 1인당 총 5번의 Upvote(▲클릭)를 하실 수 있습니다. 
+  - **가능하면 10점을 채우지 못한 질문에 Upvote(▲클릭)를 해주세요.**
+
+## 2. 샘플 질문 올리기
+
+[![도움주시는 방법3](http://mysqlguru.github.io/images/sok-contribute03.PNG)](https://area51.stackexchange.com/proposals/68765/stack-overflow-in-korean)
+
+- 참고 : 1인당 총 5개의 샘플 질문을 올릴 수 있습니다.
+
+## 3. Follow 하기
+
+[![도움주시는 방법1](http://mysqlguru.github.io/images/sok-contribute01.PNG)](https://area51.stackexchange.com/proposals/68765/stack-overflow-in-korean)
+
+- [참여하러 가기](http://area51.stackexchange.com/proposals/68765/stack-overflow-in-korean)
+
+## 4. 토론 하기
+
+- [Stackoverflow의 채팅방](http://chat.stackoverflow.com/rooms/56617/stackoverflow-in-korean)에 오셔서 SOK 준비에 참여하실 수 있습니다.
