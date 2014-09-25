@@ -2,7 +2,7 @@
 layout: docs
 title: StackOverflow 활동 중인 유저
 prev_section:
-next_section: SOK는-왜-필요한가요
+next_section:
 permalink: /docs/StackOverflow-활동-중인-유저/
 ---
 
