@@ -1,8 +1,19 @@
-- title: 일반
+- title: SOK일반사항
   docs:
   - SOK란-무엇인가요
   - SOK는-왜-필요한가요
+  - 연혁
 
-- title: 문서 카테고리2
+- title: SOK오픈방안
   docs:
-  - 문서C
+  - 참여하기
+  - 초대하기
+  - 홍보하기
+
+- title: 참고자료
+  docs:
+  - 조정의-이론
+  - 세계의-스택오버플로우
+  - StackOverflow-활동-중인-유저
+  - 용어집
+  

@@ -1,9 +1,0 @@
----
-layout: news_item
-title: 뉴스 2
-date: 2014-09-25
-author: jwChung
-categories: [모임]
----
-
-뉴스 2 내용

@@ -1,3 +1,11 @@
+---
+layout: docs
+title: StackOverflow 활동 중인 유저
+prev_section:
+next_section:
+permalink: /docs/StackOverflow-활동-중인-유저/
+---
+
 Stackoverflow [채팅](http://chat.stackoverflow.com/rooms/56617/stackoverflow-in-korean)을 만들었습니다. 이곳에 오시면 현재 활동 중인 유저를 만나실 수 있습니다.
 
 ### 유저 검색
