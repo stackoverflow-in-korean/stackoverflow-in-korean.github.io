@@ -1,8 +1,10 @@
-- title: 일반
+- title: SOK
   docs:
   - SOK란-무엇인가요
   - SOK는-왜-필요한가요
+  - 현재진행-상태
+  - 연혁
 
-- title: 문서 카테고리2
+- title: StackOverflow
   docs:
   - 문서C
