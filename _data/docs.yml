@@ -1,7 +1,7 @@
-- title: 문서 카테고리1
+- title: 일반
   docs:
-  - home
-  - 문서B
+  - SOK란-무엇인가요
+  - SOK는-왜-필요한가요
 
 - title: 문서 카테고리2
   docs:
