@@ -43,6 +43,15 @@ Contributions
 
 Jump In 라벨에 대한 보다 상세한 내용은 [Nik Molnar의 New Contributor? Jump In!][]을 참고하세요.
 
+Credits
+-------
+본 사이트 디자인은 [jekyll](https://github.com/jekyll/jekyll)의 것을 수정한 것입니다.
+
+ - jekyll v2.4.0
+ - Website: http://jekyllrb.com
+ - Copyright (c) 2008-2014 Tom Preston-Werner
+ - License: The MIT License
+
 [jekyll 문서]: http://jekyllrb.com/docs/home/
 [이슈]: https://github.com/stackoverflow-in-korean/stackoverflow-in-korean.github.io/issues
 [페이스북]: https://www.facebook.com/kr.stackoverflow
