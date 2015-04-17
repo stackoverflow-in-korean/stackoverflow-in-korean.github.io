@@ -26,7 +26,7 @@ Contributions
 -------------
 > Coming together is a beginning; keeping together is progress; working together is success. – Henry Ford
 
-**StackOverflow in Krean**은 여러분의 참여를 기다리고 있습니다. 스택오버플로우
+**StackOverflow in Korean**은 여러분의 참여를 기다리고 있습니다. 스택오버플로우
 한국어 사용을 원하시는 분이라면 **누구나** 참여 가능합니다.
 
 참여방법은 GitHub의 [Fork a repo]와 [Sending pull request][]를 통해 참여 가능합니다.
@@ -34,7 +34,7 @@ Contributions
 ###New Contributor? Jump In!
 오픈소스 참여에 익숙하지 않으신 분들은 [Issue list][이슈]에서 **Jump in** 라벨의
 이슈들을 주목하시기 바랍니다. Jump in 라벨은 다음과 같은 의미이며,
-**StackOverflow in Krean** 사이트 만들기 참여를 독려하기 위한 장치입니다.
+**StackOverflow in Korean** 사이트 만들기 참여를 독려하기 위한 장치입니다.
 
 * 해당 이슈를 해결하는데 상대적으로 많은 시간을 할애하지 않아도 된다.
 * 상대적으로 독립적인 이슈이기 때문에 이해하기 쉽다.
